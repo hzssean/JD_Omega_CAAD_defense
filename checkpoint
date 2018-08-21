@@ -1,0 +1,2 @@
+model_checkpoint_path: "retrained_model-11"
+all_model_checkpoint_paths: "retrained_model-11"
